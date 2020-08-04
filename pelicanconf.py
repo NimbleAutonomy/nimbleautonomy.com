@@ -19,6 +19,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+MENUITEMS = (('home', '/'),
+             ('articles', '/articles/'))
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -26,8 +31,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/nimbleautonomy'),)
 
 DEFAULT_PAGINATION = False
 
@@ -54,3 +58,6 @@ TAGS_SAVE_AS = BLOG_ROOT_PATH + 'tags.html'
 TAGS_URL = BLOG_ROOT_PATH + 'tags.html'
 CATEGORY_SAVE_AS = BLOG_ROOT_PATH + 'category/{slug}.html'
 CATEGORY_URL = BLOG_ROOT_PATH + 'category/{slug}.html'
+INDEX_SAVE_AS = BLOG_ROOT_PATH + 'index.html'
+
+THEME = "themes/forty"

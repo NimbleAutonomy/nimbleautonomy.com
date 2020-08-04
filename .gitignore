@@ -2,3 +2,4 @@ nacom-venv/
 output
 __pycache__/
 .DS_Store
+donotcommit.txt

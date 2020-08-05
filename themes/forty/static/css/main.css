@@ -2267,6 +2267,7 @@ input, select, textarea {
 
 		dl dd {
 			margin-left: 2em;
+			margin-bottom: 1em;
 		}
 
 /* Actions */
@@ -3950,3 +3951,20 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+/* Tags */
+	div.tags ul {
+		list-style: none;
+		display: inline;
+		padding-left: 0em;
+	}
+	div.tags ul li {
+		display: inline;
+	}
+	div.tags ul li:after {
+		content: ", ";
+	}
+	div.tags ul li:last-child:after {
+		content: "";
+	}
+	  

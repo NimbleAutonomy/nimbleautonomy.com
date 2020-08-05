@@ -1,22 +1,82 @@
-Title: Welcome to My Site
-SubTitle: foo to the bar to the baz to blah
+Title: Nimble Autonomy
+SubTitle: Helping your company grow
 URL:
 save_as: index.html
 Template: home
 
-Thank you for visiting. Welcome!
-
-# Consulting
-
-Leveraging almost 30 years of experience in the technology industry at early-stage startups, growth companies, and fortune 50 companies, we help leaders and leadership teams with:
-
-- Agile/Lean Product Development
-- Scaling Agile Organizations
-- Organizational Design
-- Startup advising
-
-I have consulted with leadership teams in small and mid-sized companies in the United States, the United Kingdom and Europe.
-
-# Speaking
-
-I am a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. I have spoken at companies such as The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, and Compare the Market.
+<section id="one">
+    <div class="inner">
+        <header class="major">
+            <h2>Kevin Goldsmith</h2>
+        </header>
+        <p>With almost thirty years of industry experience, Kevin Goldsmith has been a leader of technology teams in the worlds largest technology companies as well as in angel and seed-stage startups. He has twenty years of experience building products with Agile methodologies and has used Lean techniques to help take Adobe Revel from zero to six million subscribers and Spotify from ten million monthly active users to over one hundred million. He has helped countless companies of all sizes in multiple industries build more sustainable cultures and practices and he can help you and your team as well.</p>
+    </div>
+</section>
+<section id="two" class="spotlights">
+    <section>
+        <a class="image">
+            <img src="theme/images/pic08.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Consulting</h3>
+                </header>
+                Kevin helps leaders and leadership teams with:
+                <ul style="margin-bottom: 0.5em; margin-top: 0.5em;">
+                    <li>Agile/Lean Product Development</li>
+                    <li>Scaling Agile Organizations</li>
+                    <li>Organizational Design</li>
+                    <li>Startup advising</li>
+                </ul>
+                <p style="padding-top:0em">Kevin has consulted with leadership teams in small, mid-sized and enterprise companies in the United States, the United Kingdom and Europe.</p>
+                <ul class="actions">
+                    <li><a href="generic.html" class="button">Learn more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <a class="image">
+            <img src="theme/images/pic09.jpg" alt="" data-position="top center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Speaking</h3>
+                </header>
+                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at companies such as The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, and Compare the Market.</p>
+                <ul class="actions">
+                    <li><a href="generic.html" class="button">Learn more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section>
+        <a href="generic.html" class="image">
+            <img src="theme/images/pic10.jpg" alt="" data-position="25% 25%" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sed nunc ligula</h3>
+                </header>
+                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <ul class="actions">
+                    <li><a href="generic.html" class="button">Learn more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+</section>
+<section id="three">
+    <div class="inner">
+        <header class="major">
+            <h2>Massa libero</h2>
+        </header>
+        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+        <ul class="actions">
+            <li><a href="generic.html" class="button next">Get Started</a></li>
+        </ul>
+    </div>
+</section>

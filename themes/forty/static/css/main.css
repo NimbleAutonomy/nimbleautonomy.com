@@ -3953,18 +3953,18 @@ input, select, textarea {
 		}
 
 /* Tags */
-	div.tags ul {
+	.commalist {
 		list-style: none;
 		display: inline;
 		padding-left: 0em;
 	}
-	div.tags ul li {
+	.commalist li {
 		display: inline;
 	}
-	div.tags ul li:after {
+	.commalist li:after {
 		content: ", ";
 	}
-	div.tags ul li:last-child:after {
+	.commalist li:last-child:after {
 		content: "";
 	}
 	  

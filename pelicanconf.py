@@ -58,6 +58,13 @@ TAGS_SAVE_AS = BLOG_ROOT_PATH + 'tags.html'
 TAGS_URL = BLOG_ROOT_PATH + 'tags.html'
 CATEGORY_SAVE_AS = BLOG_ROOT_PATH + 'category/{slug}.html'
 CATEGORY_URL = BLOG_ROOT_PATH + 'category/{slug}.html'
+TAG_SAVE_AS = BLOG_ROOT_PATH + 'tag/{slug}.html'
+TAG_URL = BLOG_ROOT_PATH + 'tag/{slug}.html'
 INDEX_SAVE_AS = BLOG_ROOT_PATH + 'index.html'
+
+STATIC_PATHS = ['images', 'articles/images']
+
+GOOGLE_ANALYTICS = 'UA-174941162-1'
+TWITTER_USERNAME = 'nimbleautonomy'
 
 THEME = "themes/forty"

@@ -30,10 +30,31 @@
     {{ translations.translations_for(articles_page) }}
 
     <div class="inner">
+      {% block catstags %}
+      <div class="row">
+          <div class="col-6 col-12-small" style="margin-bottom: 1em;">
+            <h3>Categories</h3>
+            <ul class="commalist">
+              {% for category, articles in categories|sort %}
+                  <li><a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|count }})</li>
+              {% endfor %}
+            </ul>                      
+          </div>
+          <div class="col-6 col-12-small" style="margin-bottom: 1em;">
+            <h3>Tags</h3>
+            <ul class="commalist">
+              {% for tag, articles in tags|sort %}
+                  <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <hr />
+        {% endblock catstags %}
+
         {% block content_title %}
         <h2>All articles</h2>
         {% endblock %}
-
         <ol id="post-list">
         {% for article in articles_page.object_list %}
                 <li><article class="hentry">

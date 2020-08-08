@@ -3,7 +3,7 @@ Date: 2020-06-22 08:00
 Category: Agile
 Tags: hiring, coach
 
-<span class="image main">![A team working with a coach]({filename}/images/20141124-IMG_7111-3-1200x572.jpg)</span>
+<span class="image main">![A team working with a coach]({static}/articles/images/20141124-IMG_7111-3-1200x572.jpg)</span>
 
 I was inspired by this tweet from Dave Nicolette to talk a bit about what I look for when hiring Agile professionals.
 

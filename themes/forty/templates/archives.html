@@ -2,7 +2,11 @@
 
 {% block title %}{{ SITENAME }} - Archives{% endblock %}
 
+{% block banner %}
+{% endblock %}
+
 {% block content %}
+<div class="inner">
 <h1>Archives for {{ SITENAME }}</h1>
 
 <dl>
@@ -11,4 +15,5 @@
     <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
 {% endfor %}
 </dl>
+</div>
 {% endblock %}

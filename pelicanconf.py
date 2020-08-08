@@ -20,7 +20,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 MENUITEMS = (('home', '/'),
-             ('articles', '/articles/'))
+             ('consulting', 'consulting.html'),
+             ('speaking', 'speaking.html'),
+             ('writing', '/articles/'),
+             ('contact', 'contact.html'))
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 

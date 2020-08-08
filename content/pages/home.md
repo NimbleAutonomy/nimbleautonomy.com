@@ -1,4 +1,4 @@
-Title: Nimble Autonomy
+Title: Nimble Autonomy LLC
 SubTitle: Helping your company grow
 URL:
 save_as: index.html
@@ -26,12 +26,12 @@ Template: home
                 <ul style="margin-bottom: 0.5em; margin-top: 0.5em;">
                     <li>Agile/Lean Product Development</li>
                     <li>Scaling Agile Organizations</li>
-                    <li>Organizational Design</li>
-                    <li>Startup advising</li>
+                    <li>Software Architecture</li>
+                    <li>Mentoring Senior Leaders</li>
                 </ul>
                 <p style="padding-top:0em">Kevin has consulted with leadership teams in small, mid-sized and enterprise companies in the United States, the United Kingdom and Europe.</p>
                 <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
+                    <li><a href="consulting.html" class="button">Learn more</a></li>
                 </ul>
             </div>
         </div>
@@ -47,13 +47,13 @@ Template: home
                 </header>
                 <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
                 <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
+                    <li><a href="speaking.html" class="button">Learn more</a></li>
                 </ul>
             </div>
         </div>
     </section>
     <section>
-        <a href="generic.html" class="image">
+        <a class="image">
             <img src="theme/images/pic10.jpg" alt="speaking" data-position="25% 25%" />
         </a>
         <div class="content">
@@ -63,7 +63,7 @@ Template: home
                 </header>
                 <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
                 <ul class="actions">
-                    <li><a href="articles/index.html" class="button">Learn more</a></li>
+                    <li><a href="articles/" class="button">Learn more</a></li>
                 </ul>
             </div>
         </div>
@@ -76,7 +76,7 @@ Template: home
         </header>
         <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
         <ul class="actions">
-            <li><a href="generic.html" class="button next">Get Started</a></li>
+            <li><a href="contact.html" class="button next">Get Started</a></li>
         </ul>
     </div>
 </section>

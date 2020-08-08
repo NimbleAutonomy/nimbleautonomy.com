@@ -1,15 +1,29 @@
 {% if DEFAULT_PAGINATION %}
 {% set first_page = articles_paginator.page(1) %}
 {% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
-<p class="paginator">
+<ul class="pagination">
     {% if articles_page.has_previous() %}
-        <a href="{{ SITEURL }}/{{ first_page.url }}">&#8647;</a>
-        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">&laquo;</a>
+        <li><a href="{{ SITEURL }}/{{ first_page.url }}" style="border-bottom:none"><span class="button small">First</span></a></li>
+        {% if articles_page.number - 5 > 1 %}
+        <li><span>&hellip;</span></li>
+        {% endif %}
+        {% for i in range([articles_page.number-5, 1] | max, articles_page.number ) %}
+        <li><a href="{{ SITEURL }}/{{ articles_paginator.page(i).url }}" class="page">{{i}}</a></li>    
+        {% endfor %}
+    {% else %}
+        <li><span class="button small disabled">First</span></li>
     {% endif %}
-    Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
+    <li><a href="#" class="page active">{{ articles_page.number }}</a></li>
     {% if articles_page.has_next() %}
-        <a href="{{ SITEURL }}/{{ articles_next_page.url }}">&raquo;</a>
-        <a href="{{ SITEURL }}/{{ last_page.url }}">&#8649;</a>
+        {% for i in range(articles_page.number+1, [articles_page.number+6, articles_paginator.num_pages+1] | min) %}
+        <li><a href="{{ SITEURL }}/{{ articles_paginator.page(i).url }}" class="page">{{i}}</a></li>    
+        {% endfor %}
+        {% if articles_page.number + 6 < articles_paginator.num_pages+1 %}
+        <li><span>&hellip;</span></li>
+        {% endif %}
+        <li><a href="{{ SITEURL }}/{{ last_page.url }}" style="border-bottom:none"><span class="button small">Last</span></a></li>
+    {% else %}
+    <li><span class="button small disabled">Last</span></li>
     {% endif %}
-</p>
+</ul>
 {% endif %}

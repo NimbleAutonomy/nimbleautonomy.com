@@ -45,7 +45,7 @@ Template: home
                 <header class="major">
                     <h3>Speaking</h3>
                 </header>
-                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at companies such as The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, and Compare the Market.</p>
+                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
@@ -59,11 +59,11 @@ Template: home
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Sed nunc ligula</h3>
+                    <h3>Writing</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
                 <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
+                    <li><a href="articles/index.html" class="button">Learn more</a></li>
                 </ul>
             </div>
         </div>

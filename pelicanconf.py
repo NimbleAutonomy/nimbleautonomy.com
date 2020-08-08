@@ -68,3 +68,5 @@ GOOGLE_ANALYTICS = 'UA-174941162-1'
 TWITTER_USERNAME = 'nimbleautonomy'
 
 THEME = "themes/forty"
+
+DEFAULT_PAGINATION = 10

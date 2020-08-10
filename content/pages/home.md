@@ -69,12 +69,12 @@ Template: home
         </div>
     </section>
 </section>
-<section id="three">
+<section id="three" style="padding-top:1em;">
     <div class="inner">
         <header class="major">
-            <h2>Massa libero</h2>
+            <h2>Contact us</h2>
         </header>
-        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+        <p>Contact us for an initial appointment to discuss the challenges you or your organization are facing and possible ways that we can help.</p>
         <ul class="actions">
             <li><a href="contact.html" class="button next">Get Started</a></li>
         </ul>

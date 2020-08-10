@@ -67,7 +67,6 @@ INDEX_SAVE_AS = BLOG_ROOT_PATH + 'index.html'
 
 STATIC_PATHS = ['images', 'articles/images']
 
-GOOGLE_ANALYTICS = 'UA-174941162-1'
 TWITTER_USERNAME = 'nimbleautonomy'
 
 THEME = "themes/forty"

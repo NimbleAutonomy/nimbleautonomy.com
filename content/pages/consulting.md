@@ -16,5 +16,6 @@ Services that Kevin has provided for companies include:
 - Mentoring founders and first-time senior technology leaders on strategies for developing their teams and architectures
 - Interviewing CTO candidates for early-stage startups
 - Consulting on industry technology and market trends in EduTech, LegalTech, FinTech, streaming media, developer tooling, and consumer products
+- Performing fractional/part-time/interim CTO responsibilities
 
 Kevin brings an outside perspective and a wealth of experience solving problems in different companies as a senior leader. His expertise can help you address the challenges your organization is facing. If you would like to know more, please contact Nimble Autonomy.

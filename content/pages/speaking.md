@@ -16,7 +16,7 @@ Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. H
 - Sudweb 2014 - Toulouse, France
 - QCon China 2014 - Shanghai, China
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7LGPeBgNFuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-bottom:2em;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LGPeBgNFuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="padding-bottom:2em;" title="embedded YouTube video featuring Kevin speaking at GOTO 2015"></iframe>
 
 Kevin has also given talks for employees at the following companies:
 

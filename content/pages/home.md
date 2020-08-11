@@ -45,7 +45,7 @@ Template: home
                 <header class="major">
                     <h3>Speaking</h3>
                 </header>
-                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
+                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired tens of thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
                 <ul class="actions">
                     <li><a href="speaking.html" class="button">Learn more</a></li>
                 </ul>

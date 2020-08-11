@@ -1,6 +1,7 @@
-Title: Nimble Autonomy LLC
+Title: Nimble Autonomy
 SubTitle: Helping your company grow
-URL:
+Description: Information about Nimble Autonomy, LLC
+Date: 2020-08-10 20:00
 save_as: index.html
 Template: home
 
@@ -14,9 +15,9 @@ Template: home
 </section>
 <section id="two" class="spotlights">
     <section>
-        <a class="image">
-            <img src="theme/images/pic08.jpg" alt="speaking" data-position="center center" />
-        </a>
+        <span class="image">
+            <img src="/theme/images/pic08.jpg" alt="speaking" data-position="center center" />
+        </span>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -31,15 +32,15 @@ Template: home
                 </ul>
                 <p style="padding-top:0em">Kevin has consulted with leadership teams in small, mid-sized and enterprise companies in the United States, the United Kingdom and Europe.</p>
                 <ul class="actions">
-                    <li><a href="consulting.html" class="button">Learn more</a></li>
+                    <li><a href="consulting.html" class="button">Learn more about consulting</a></li>
                 </ul>
             </div>
         </div>
     </section>
     <section>
-        <a class="image">
-            <img src="theme/images/pic09.jpg" alt="speaking" data-position="top center" />
-        </a>
+        <span class="image">
+            <img src="/theme/images/pic09.jpg" alt="speaking" data-position="top center" />
+        </span>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -47,15 +48,15 @@ Template: home
                 </header>
                 <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
                 <ul class="actions">
-                    <li><a href="speaking.html" class="button">Learn more</a></li>
+                    <li><a href="speaking.html" class="button">Learn more about speaking</a></li>
                 </ul>
             </div>
         </div>
     </section>
     <section>
-        <a class="image">
+        <span class="image">
             <img src="theme/images/pic10.jpg" alt="speaking" data-position="25% 25%" />
-        </a>
+        </span>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -63,7 +64,7 @@ Template: home
                 </header>
                 <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
                 <ul class="actions">
-                    <li><a href="articles/" class="button">Learn more</a></li>
+                    <li><a href="articles/" class="button">Learn more about writing</a></li>
                 </ul>
             </div>
         </div>

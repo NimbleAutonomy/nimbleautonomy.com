@@ -2,6 +2,7 @@ Title: Hiring Agile Coaches
 Date: 2020-06-22 08:00
 Category: Agile
 Tags: hiring, coach
+Description: An article about the decision to hire an Agile Coach into a technology organization
 
 <span class="image main">![A team working with a coach]({static}/articles/images/20141124-IMG_7111-3-1200x572.jpg)</span>
 

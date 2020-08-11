@@ -1,4 +1,6 @@
 Title: Nimble Autonomy Speaking
+Description: Speaking services provided by Nimble Autonomy, LLC
+Date: 2020-08-10 20:00
 save_as: speaking.html
 
 <span class="image fit"><img src="{static}/images/20181018-DpzM3bBW4AI9uwu.jpg" alt="Kevin keynoting the Honeypot Hive conference" /><span>

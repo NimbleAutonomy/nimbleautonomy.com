@@ -1,4 +1,6 @@
 Title: Contact Nimble Autonomy
+Description: Ways to contact Nimble Autonomy, LLC
+Date: 2020-08-10 20:00
 save_as: contact.html
 
 You can contact us in the following ways:

@@ -2,6 +2,7 @@ Title: Y.A.L.A.M.F.A.T.D.B.P. (Yet Another Legos As Metaphor For Agile and Techn
 Date: 2020-06-15 08:00
 Category: Agile
 Tags: lego
+Description: An article about legos as a metaphor for agile software development and technical debt
 
 <span class="image main">![legos!]({static}/articles/images/KevinGoldsmith-legos-20200613-1200x762.jpg)</span>
 

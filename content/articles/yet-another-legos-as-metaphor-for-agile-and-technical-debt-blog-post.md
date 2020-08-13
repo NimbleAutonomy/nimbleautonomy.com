@@ -27,3 +27,5 @@ The grouping of Lego pieces into bags is a metaphor for Agile software developme
 By narrowing the scope and limiting the options, you make the work go faster, even when the problem is involved (like one of their expert models).
 
 The next time you are trying to explain to your product manager (or anyone) why you need to add more tech-debt stories into the backlog even though it means a feature will take longer to deliver, bring in a big box of Legos as a teaching tool. If it doesn’t work, you’ll at least have a fun team meeting…
+
+*Originally published at [https://blog.kevingoldsmith.com/2020/06/15/y-a-l-a-m-f-a-t-d-b-p-yet-another-legos-as-metaphor-for-agile-and-technical-debt-blog-post/](https://blog.kevingoldsmith.com/2020/06/15/y-a-l-a-m-f-a-t-d-b-p-yet-another-legos-as-metaphor-for-agile-and-technical-debt-blog-post/)*

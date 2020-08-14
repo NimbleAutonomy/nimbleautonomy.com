@@ -45,13 +45,13 @@ def update_image_tag(img, file_paths, soup):
         if attr not in SKIP_ATTRS:
             if attr == 'src':
                 matches = find_image_matches(img.attrs[attr], file_paths)
-                newimg.attrs[attr] = 'images/' + matches[0][0]
+                newimg.attrs[attr] = '/articles/images/' + matches[0][0]
             elif attr == 'srcset':
                 new_srcset = img.attrs[attr]
                 for path in file_paths:
                     orig_split = path[2].split(' ')
                     if len(orig_split) > 1:
-                        new_srcset = new_srcset.replace(path[1], 'images/'+path[0])
+                        new_srcset = new_srcset.replace(path[1], '/articles/images/'+path[0])
                 newimg.attrs[attr] = new_srcset
             else:
                 newimg.attrs[attr] = img.attrs[attr]
@@ -92,14 +92,12 @@ for line in lines:
             continue
 
     if line.startswith('Tags: ') and len(extratags) > 0:
-        print(line)
         line = line.rstrip()
         for tag in extratags:
             tag = tag.strip()
             if len(tag) > 0:
                 line += ', ' + tag
         line += '\n'
-        print(line)
         newlines.append(line)
         continue
 

@@ -3967,4 +3967,7 @@ input, select, textarea {
 	.commalist li:last-child:after {
 		content: "";
 	}
+	.commalist li:first-child {
+		padding-left: 0em;
+	}
 	  

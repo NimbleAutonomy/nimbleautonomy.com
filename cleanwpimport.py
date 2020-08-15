@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 import urllib.request
 from urllib.parse import urlparse
+from urllib.error import HTTPError
 import os
 import re
 
@@ -192,24 +193,29 @@ if original_url:
     post_thumbnail_img = None
     images = []
 
-    response = urllib.request.urlopen(original_url)
-    original_post = response.read()
-    soup = BeautifulSoup(original_post, features="lxml")
-    
-    article = soup.find('article')
-    if article is not None:
-        thumbnail_div = article.find('div', {'class': 'post-thumbnail'})
-        if thumbnail_div is not None:
-            post_thumbnail_img = thumbnail_div.find('img')
-        else:
-            thumbail_a = article.find('a', {'class': 'post-thumnbnail'})
-            if thumbail_a is not None:
-                post_thumbnail_img = thumbnail_a.find('img')
-    
-        entry_content_div = article.find('div', {'class': 'entry-content'})
-        if entry_content_div is not None:
-            images = entry_content_div.findAll('img')
-    
+    try:
+        response = urllib.request.urlopen(original_url)
+        original_post = response.read()
+        soup = BeautifulSoup(original_post, features="lxml")
+        
+        article = soup.find('article')
+        if article is not None:
+            thumbnail_div = article.find('div', {'class': 'post-thumbnail'})
+            if thumbnail_div is not None:
+                post_thumbnail_img = thumbnail_div.find('img')
+            else:
+                thumbail_a = article.find('a', {'class': 'post-thumnbnail'})
+                if thumbail_a is not None:
+                    post_thumbnail_img = thumbnail_a.find('img')
+        
+            entry_content_div = article.find('div', {'class': 'entry-content'})
+            if entry_content_div is not None:
+                images = entry_content_div.findAll('img')
+    except HTTPError as e:
+        print(f'error: {e}')
+        print(e.url)
+        raise
+
     # make a list of images to download
     downloads = []
     if post_thumbnail_img is not None:

@@ -3972,7 +3972,7 @@ input, select, textarea {
 	}
 
 /* Photo Captions */
-	span .caption {
+	span.caption {
 		display: block;
 		font-style: italic;
 		color: aqua;

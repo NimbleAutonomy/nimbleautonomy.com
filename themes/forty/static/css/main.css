@@ -3970,4 +3970,11 @@ input, select, textarea {
 	.commalist li:first-child {
 		padding-left: 0em;
 	}
-	  
+
+/* Photo Captions */
+	span .caption {
+		display: block;
+		font-style: italic;
+		color: aqua;
+		font-size: smaller;
+	}

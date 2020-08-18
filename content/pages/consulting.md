@@ -5,11 +5,15 @@ save_as: consulting.html
 
 <span class="image right"><img src="{static}/images/20161010-CuZ-tYAXgAAhsmf.jpg" alt="Kevin leading a workshop on organizational design to a group in Warsaw" /></span>
 
-Kevin has been in your shoes as a leader. He has been the executive responsible for transforming his organization while shipping products. He has had to answer to the CEO and the board about how he is evolving the organization. Kevin led the team that shipped Microsoft's first product using Agile frameworks in 2003. He built Adobe's first product using Lean methodologies in 2012. Kevin completed a long-stalled transition from a monolith to a microservice architecture at Avvo, while also evolving the revenue model and building a test-and-learn culture. He has been responsible for forming the vision, the plan, and getting the organization on board while handling institutional, customer, and team friction. Kevin has also helped nurture developers into Leads or Principals, Leads into Directors, and Directors in VPs and CTOs. He understands the challenges you are facing as a leader in your organization.
+Kevin has been in your shoes as a leader.
+
+Kevin has been the executive responsible for transforming his organization while shipping products. He has had to answer to the CEO and the board about how he is evolving the organization. Kevin led the team that shipped Microsoft's first product using Agile frameworks in 2003. He built Adobe's first product using Lean methodologies in 2012. Kevin completed a long-stalled transition from a monolith to a microservice architecture at Avvo, while also evolving the revenue model and building a test-and-learn culture. Kevin led acquisitions for Spotify and Onfido. He was the point for the technical due dilegeance on Avvo's acqusition and Onfido's recent $100 million dollar round.
+
+Kevin has been responsible for forming the vision, the plan, and getting the organization on board while handling institutional, customer, and team friction. Kevin has also helped nurture developers into Leads or Principals, Leads into Directors, and Directors into VPs and CTOs. He understands the challenges you are facing as a leader in your organization.
 
 Kevin is available on an hourly, daily, or weekly basis. Weekly availability is subject to advanced scheduling and a penalty for cancelation. Any potential engagement will begin with a free phone/video call to assess your needs, understand your goals, and discuss how he can help.
 
-Each engagement will be unique as each company and challenge is different. Kevin does not bring a one-size-fits-all approach nor a set of fixed solutions that he will impose on your unique problems. He works to understand what makes your team distinctive. Then builds on that to help you address your current challenges and put a framework in place to help guide you moving forward. A framework aligned with who your company is and what you aspire for it to be.
+Each engagement will be unique as each company and challenge is different. Kevin does not bring a one-size-fits-all approach nor a set of fixed solutions that he will impose on your unique problems. He works to understand what makes your team distinctive. Then he builds on that understanding to put a framework in place to help you move forward. A framework aligned with who your company is and what you aspire for it to be.
 
 Services that Kevin has provided for companies include:
 

@@ -31,7 +31,9 @@ def get_downloads_from_img(img):
 def find_url(possible_url):
     finds = re.findall('(?i)\\b((?:https?://|www\\d{0,3}[.]|[a-z0-9.\\-]+[.][a-z]{2,4}/)(?:[^\\s()<>]+|\\(([^\\s()<>]+|(\\([^\\s()<>]+\\)))*\\))+(?:\\(([^\\s()<>]+|(\\([^\\s()<>]+\\)))*\\)|[^\\s`!()\\[\\]{};:\'\\".,<>?«»“”‘’]))', possible_url)
     if len(finds) == 0:
+        print(f'could not find URL in: {possible_url}')
         return None
+    print(f'found url {finds[0][0]}')
     return finds[0][0]
 
 
@@ -253,7 +255,7 @@ if original_url:
             continue
         elif inimg and len(line) == 1:
             continue
-        elif inimg and line.startswith('!['):
+        elif line.startswith('!['):
             imgurl = find_url(line)
             if imgurl is None:
                 continue

@@ -1,7 +1,7 @@
 Title: The Personal Strategy Off-site
 Date: 2020-05-03 12:19
-Category: Agile
-Tags: planning, retrospective, strategy, Management and Leadership, Professional Development
+Category: Management and Leadership
+Tags: planning, retrospective, strategy, Professional Development
 Slug: the-personal-strategy-off-site
 
 <img alt="A photo from my last personal strategy day in January." height="900" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/IMG_20200119_150508-scaled.jpg" srcset="/articles/images/IMG_20200119_150508-scaled.jpg 2560w, /articles/images/IMG_20200119_150508-744x558.jpg 744w, /articles/images/IMG_20200119_150508-1200x900.jpg 1200w, /articles/images/IMG_20200119_150508-420x315.jpg 420w, /articles/images/IMG_20200119_150508-768x576.jpg 768w, /articles/images/IMG_20200119_150508-1536x1152.jpg 1536w, /articles/images/IMG_20200119_150508-2048x1536.jpg 2048w" width="1200"/>

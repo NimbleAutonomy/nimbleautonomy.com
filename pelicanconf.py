@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'Kevin Goldsmith'
 SITENAME = 'Nimble Autonomy'
@@ -65,7 +66,10 @@ TAG_SAVE_AS = BLOG_ROOT_PATH + 'tag/{slug}.html'
 TAG_URL = BLOG_ROOT_PATH + 'tag/{slug}.html'
 INDEX_SAVE_AS = BLOG_ROOT_PATH + 'index.html'
 
-STATIC_PATHS = ['images', 'articles/images']
+STATIC_PATHS = ['images', 'extra', 'articles/images']
+EXTRA_PATH_METADATA = {}
+for file in os.listdir('content/extra'):
+    EXTRA_PATH_METADATA[f'extra/{file}'] = { 'path': file }
 
 TWITTER_USERNAME = 'nimbleautonomy'
 

@@ -3,6 +3,8 @@ Description: Ways to contact Nimble Autonomy, LLC
 Date: 2020-08-10 20:00
 save_as: contact.html
 
+<span class="image right"><img width=300 src="/images/gradient-plane.svg" alt="logo"/></span>
+
 You can contact us in the following ways:
 
 <!--

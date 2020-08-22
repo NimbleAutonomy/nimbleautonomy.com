@@ -9,6 +9,9 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
+from pelican.plugins import sitemap
+
+PLUGINS = [ 'pelican.plugins.sitemap' ]
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://nimbleautonomy.com'
@@ -24,4 +27,16 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = 'UA-175171484-1'
 
-
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.8,
+        'pages': 1.0,
+        'indexes': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'pages': 'weekly',
+        'indexes': 'daily'
+    }
+}

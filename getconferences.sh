@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -O https://github.com/kevingoldsmith/kgdotcom/blob/main/data/conferences.json
+curl -O https://raw.githubusercontent.com/kevingoldsmith/kgdotcom/main/data/conferences.json

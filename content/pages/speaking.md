@@ -5,6 +5,17 @@ save_as: speaking.html
 
 <span class="image fit"><img src="{static}/images/20181018-DpzM3bBW4AI9uwu.jpg" alt="Kevin keynoting the Honeypot Hive conference" /><span>
 
+### Upcoming talks
+
+- [JAX](https://jax.de/) - September 08, 2020 - Mainz, Germany
+- [Agile Business Day](http://www.agilebusinessday.com/) - September 12, 2020
+- [LeadDev Together](https://together.leaddev.com/programme/building-motivation) - September 15, 2020
+- [Agile by Example](https://agilebyexample.com/) - October 05, 2020
+- [Software Architecture Gathering](https://www.software-architecture-gathering.de/) - October 15, 2020 - München - Aschheim, Germany
+- [Pixels Camp](https://pixels.camp/) - November 26, 2020 - Lisboa, Portugal
+- [Xpand Conference](http://www.xpandconf.com/) - June 01, 2021 - Amman, Jordan
+- [Lead Dev: Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) - June 10, 2021 - London, United Kingdom
+
 Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. He has given keynotes at the following public conferences:
 
 - Agile Israel 2019 - Tel Aviv, Israel

@@ -7,22 +7,20 @@ save_as: speaking.html
 
 ### Upcoming talks
 
-- [JAX](https://jax.de/) - September 08, 2020 - Mainz, Germany
-- [Agile Business Day](http://www.agilebusinessday.com/) - September 12, 2020
 - [LeadDev Together](https://together.leaddev.com/programme/building-motivation) - September 15, 2020
 - [Agile by Example](https://agilebyexample.com/) - October 05, 2020
 - [Software Architecture Gathering](https://www.software-architecture-gathering.de/) - October 15, 2020 - München - Aschheim, Germany
-- [Pixels Camp](https://pixels.camp/) - November 26, 2020 - Lisboa, Portugal
+- [2021 tech leadership conference](https://www.developer-first.com/conference) - May 07, 2021 - Minnetonka, MN, United States
 - [Xpand Conference](http://www.xpandconf.com/) - June 01, 2021 - Amman, Jordan
 - [Lead Dev: Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) - June 10, 2021 - London, United Kingdom
 
 Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. He has given keynotes at the following public conferences:
 
+- JAX 2017, 2020 - Frankfurt, Germany
 - Agile Israel 2019 - Tel Aviv, Israel
 - Agile by Example 2018 - Warsaw, Poland
 - The Hive Conference 2018 - Berlin, Germany
 - The Lead Developer 2018 - London, United Kingdom
-- JAX 2017 - Frankfurt, Germany
 - AppBuilders 2016 - Zurich, Switzerland
 - Mobiconf 2015 - Kraków, Poland
 - WEBBOS 2015 - Stockholm, Sweden

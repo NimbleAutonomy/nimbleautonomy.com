@@ -4,7 +4,7 @@ Category: Management and Leadership
 Tags: diversity, inclusion, recruiting, Avvo
 Slug: changing-hiring-practices-to-build-a-more-diverse-technology-organization-a-case-study-from-avvo
 
-<img alt="" height="257" loading="lazy" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/IMG_20171211_143141-1200x257.jpg" srcset="/articles/images/IMG_20171211_143141-1200x257.jpg 1200w, /articles/images/IMG_20171211_143141-744x159.jpg 744w, /articles/images/IMG_20171211_143141-420x90.jpg 420w, /articles/images/IMG_20171211_143141-768x165.jpg 768w, /articles/images/IMG_20171211_143141-1536x329.jpg 1536w, /articles/images/IMG_20171211_143141-2048x439.jpg 2048w" width="1200"/>
+<img alt="The engineering team at Avvo" height="257" loading="lazy" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 60vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/IMG_20171211_143141-1200x257.jpg" srcset="/articles/images/IMG_20171211_143141-1200x257.jpg 1200w, /articles/images/IMG_20171211_143141-744x159.jpg 744w, /articles/images/IMG_20171211_143141-420x90.jpg 420w, /articles/images/IMG_20171211_143141-768x165.jpg 768w, /articles/images/IMG_20171211_143141-1536x329.jpg 1536w, /articles/images/IMG_20171211_143141-2048x439.jpg 2048w" width="1200"/>
 
 # Introduction
 
@@ -94,7 +94,7 @@ We also required that anyone participating in interviews got qualified on the in
 
 A group of developers for each of the different disciplines got together to create two or three technical problems to solve reflective of the type of work they did every day. Each question had a set of representative answers in a 3x3 grid. One axis represented the candidate's experience level. The other axis was unacceptable, acceptable, and excellent solutions.
 
-<img alt="" height="1091" loading="lazy" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/Changing-Culture-and-Hiring-Practices-illustration-1200x1091.png" srcset="/articles/images/Changing-Culture-and-Hiring-Practices-illustration-1200x1091.png 1200w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-744x676.png 744w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-420x382.png 420w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-768x698.png 768w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-1536x1396.png 1536w" width="1200"/>
+<img alt="a grid demonstrating the two axes" height="1091" loading="lazy" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/Changing-Culture-and-Hiring-Practices-illustration-1200x1091.png" srcset="/articles/images/Changing-Culture-and-Hiring-Practices-illustration-1200x1091.png 1200w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-744x676.png 744w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-420x382.png 420w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-768x698.png 768w, /articles/images/Changing-Culture-and-Hiring-Practices-illustration-1536x1396.png 1536w" width="1200"/>
 
 We asked the same questions to any candidate regardless of the level of the role or their experience level. Over time, we added to the set of representative answers as we heard new answers from candidates.
 

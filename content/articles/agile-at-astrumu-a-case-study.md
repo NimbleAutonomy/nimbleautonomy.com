@@ -36,7 +36,7 @@ A benefit of this structure is that we can leverage pull requests in our GitHub 
 
 To track the overall work of the team, we have a master AstrumU project that consolidates and tracks all the work in the other projects. The AstrumU project is the only one in Jira that has a Kanban view and is the single source of truth for prioritization and work-in-progress. This project is also where work items that span multiple projects, such as infrastructure or general documentation, are added.
 
-<img alt="" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/AstrumU_Filter_Query-1.png" srcset="/articles/images/AstrumU_Filter_Query-1.png 886w, /articles/images/AstrumU_Filter_Query-1-420x361.png 420w, /articles/images/AstrumU_Filter_Query-1-744x640.png 744w, /articles/images/AstrumU_Filter_Query-1-768x661.png 768w"/>
+<img alt="The filter query for the epic project" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/AstrumU_Filter_Query-1.png" srcset="/articles/images/AstrumU_Filter_Query-1.png 886w, /articles/images/AstrumU_Filter_Query-1-420x361.png 420w, /articles/images/AstrumU_Filter_Query-1-744x640.png 744w, /articles/images/AstrumU_Filter_Query-1-768x661.png 768w"/>
 
 # Taxonomy of our work items 
 
@@ -96,7 +96,7 @@ The cards' position in the column denotes priority. Developers are expected to t
 
 Cards move from To Do to In Progress when a developer is free. We do not let a single developer have more than one card In Progress. When a developer starts work on a card, if they realize that the scope of the work is too big for a story, they break down the card into smaller stories and tasks. They can keep moving forward on their work. We discuss the breakdown in the next day's standup. If the team agrees on the new stories and tasks, those cards get prioritized in the To Do column.
 
-<img alt="" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/Story-Workflow.png" srcset="/articles/images/Story-Workflow.png 975w, /articles/images/Story-Workflow-420x268.png 420w, /articles/images/Story-Workflow-744x474.png 744w, /articles/images/Story-Workflow-768x489.png 768w"/>
+<img alt="screen shot of the Jira workflow" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/Story-Workflow.png" srcset="/articles/images/Story-Workflow.png 975w, /articles/images/Story-Workflow-420x268.png 420w, /articles/images/Story-Workflow-744x474.png 744w, /articles/images/Story-Workflow-768x489.png 768w"/>
 
 If a Developer is working on a card and finds that a dependency on another card is blocking their work, they link the two cards and then move the blocked card to the Blocked column. A card only moves to the Blocked column if the blocking dependency is In Progress. If the dependency is the To Do column, then the developer adds comments about what they have done, they push their in-progress branch to Github and then put the card back in To Do and start on something else.
 
@@ -106,7 +106,7 @@ When a release is created in GitHub as part of our semantic versioning scheme an
 
 I have been considering doing a separate column for UX Review on the Kanban board and may add that in future.
 
-### The Planning Meeting 
+### The Planning Meeting
 
 Every other week after the Monday standup meeting we have our planning meeting. The agenda of the meeting is: Review the completed Epics from the last two weeks; review the Epics that are currently in progress and review any new epics that may be moved from To Do to In Progress in the next two weeks.
 
@@ -116,7 +116,7 @@ For the upcoming Epics, we discuss the product, UX and business context of the E
 
 Initially, we tried generating the stories as part of the Planning meeting, but that proved too cumbersome. The stories and tasks are now generated beforehand by the engineering leadership. Generating the initial stories in this way is a temporary solution. Ideally, the team should generate the stories and tasks themselves.  
 
-# Challenges 
+# Challenges
 
 Our current process is the result of iteration and continuous improvement. There are still some challenges to resolve.
 

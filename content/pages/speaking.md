@@ -7,7 +7,6 @@ save_as: speaking.html
 
 ### Upcoming talks
 
-- [LeadDev Together](https://together.leaddev.com/programme/building-motivation) - September 15, 2020
 - [Agile by Example](https://agilebyexample.com/) - October 05, 2020
 - [Software Architecture Gathering](https://www.software-architecture-gathering.de/) - October 15, 2020 - München - Aschheim, Germany
 - [2021 tech leadership conference](https://www.developer-first.com/conference) - May 07, 2021 - Minnetonka, MN, United States
@@ -37,6 +36,7 @@ Kevin has also given talks for employees at the following companies:
 - Automattic
 - Bonnier
 - The British Broadcasting Corporation
+- British Petroleum Launchpad
 - Code Fellows
 - Compare the Market
 - de Bijenkorf

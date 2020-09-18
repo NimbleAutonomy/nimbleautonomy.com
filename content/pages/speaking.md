@@ -13,6 +13,8 @@ save_as: speaking.html
 - [Xpand Conference](http://www.xpandconf.com/) - June 01, 2021 - Amman, Jordan
 - [Lead Dev: Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) - June 10, 2021 - London, United Kingdom
 
+> Kevin gave an awesome talk to our eco-system on agile methodologies. It was particularly powerful because, as a CTO, Kevin truly "gets" how this stuff really nets out in practice. So much of what people talk about in this space is based in theory and then falls apart when you try to apply it IRL. This session was super useful to all of our teams because he gave them the permission to figure out how to make agile work for us, and not vice versa. We hope to have Kevin speak to our community again in future. - **Ruth Penfold, People Practice Lead at Launchpad from BP**  
+
 Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. He has given keynotes at the following public conferences:
 
 - JAX 2017, 2020 - Frankfurt, Germany

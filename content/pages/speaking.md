@@ -7,6 +7,8 @@ save_as: speaking.html
 
 ### Upcoming talks
 
+- [DeveloperWeek Global Enterprise](https://www.developerweek.com/global/conference/enterprise/) - November 10, 2020 - virtual
+- [LeadDev: Strategies for creating cultures of innovation in engineering teams](https://leaddev.com/events/strategies-creating-cultures-innovation-engineering-teams) - November 11, 2020 - virtual
 - [2021 tech leadership conference](https://www.developer-first.com/conference) - May 07, 2021 - Minnetonka, MN, United States
 - [Xpand Conference](http://www.xpandconf.com/) - June 01, 2021 - Amman, Jordan
 - [Lead Dev: Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) - June 10, 2021 - London, United Kingdom

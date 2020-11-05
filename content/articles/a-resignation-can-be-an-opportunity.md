@@ -37,3 +37,5 @@ Potentially your team is out of balance, where you have too many (or too few) se
 If you are in a position where you manage multiple teams then this might be an opportunity to re-evaluate the team structure, especially if the leaver is a manager. A way to approach this exercise would be to imagine that the person leaving was never on the team. Your manager has given you a brand new headcount and asked you to figure out how you want to use it.
 
 Once you have a plan, you can then write the job description and look to fill the role, as you may decide that you need to replace the person with someone who has a similar skill set. If so, you can move forward confidently knowing that you have thought it through, and if you have also taken the time to learn you will hopefully retain your new hire for a long time.
+
+Originally published at [https://leaddev.com/hiring-onboarding-retention/resignation-can-be-opportunity](https://leaddev.com/hiring-onboarding-retention/resignation-can-be-opportunity)

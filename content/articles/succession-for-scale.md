@@ -6,7 +6,7 @@ Slug: succession-for-scale
 
 Recently, I have been thinking about the role of the executive in a scaling startup.
 
-As a senior leader in a growing company, you need to be scaling faster than the organization. You grow by scaling yourself and the leaders in your team more quickly than the business. This fact is well known and is covered excellently in such books as Zero to One and The Hard Thing About Hard Things.
+As a senior leader in a growing company, you need to be scaling faster than the organization. You grow by scaling yourself and the leaders in your team more quickly than the business. This fact is well known and is covered excellently in such books as [Zero to One](https://amzn.to/2VfBM7W) and [The Hard Thing About Hard Things](https://amzn.to/2VeHbML).
 
 Even if you are aware of this fundamental requirement, it is still challenging to recognize when you are starting to fall behind on that scaling. The people on your team, the people that got you to where you are today, who are working as hard as ever, should be doing better than they are. You may start seeing the signs: teams falling behind, tensions between groups or functions, team leaders beginning to struggle with their work, and increasing responsibilities.
 
@@ -30,7 +30,7 @@ We have an assumption that in a growing company, people will remain in the roles
 
 Instead, we should be explicit about this challenge of growing a company. We should build a culture that acknowledges and celebrates this fundamental fact. Let people your hire know that you will support their growth, but be honest that if the company is scaling faster than they are, they may need to help hire the person who will help with the next phase.
 
-Reid Hoffman talks about these ideas in his book The Alliance. I think Netflix has done well being explicit around the Tour of Duty in their culture. I do think Netflix is a bit too employer-focused in its attitude towards these ideas. This approach works for them because they favor hiring experienced developers and do not invest much in training their employees relative to other companies. That is another definitive decision of their culture.
+Reid Hoffman talks about these ideas in his book [The Alliance](https://amzn.to/3fPhMlX). I think Netflix has done well being explicit around the Tour of Duty in their culture. I do think Netflix is a bit too employer-focused in its attitude towards these ideas. This approach works for them because they favor hiring experienced developers and do not invest much in training their employees relative to other companies. That is another definitive decision of their culture.
 
 I advocate for a more balanced and sustainable approach for companies, one that encourages employee development and business realities. Startups that are willing to hire at all levels of experience and support employee growth can hire and retain better. Even those companies face challenges at their scaling inflection points when company leadership changes by the new business reality's necessities.
 

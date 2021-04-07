@@ -15,6 +15,7 @@ save_as: speaking.html
 
 Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. He has given keynotes at the following public conferences:
 
+- Global Entrepeneurship Summit 2021 - West Bengal, India
 - JAX 2017, 2020 - Frankfurt, Germany
 - Agile Israel 2019 - Tel Aviv, Israel
 - Agile by Example 2018 - Warsaw, Poland

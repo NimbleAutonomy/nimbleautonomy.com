@@ -44,6 +44,7 @@ Kevin has also given talks for employees at the following companies:
 - General Assembly
 - Geocaching
 - Godel
+- Metrobank
 - Philips Personal Health
 - Starbucks
 - Think Money

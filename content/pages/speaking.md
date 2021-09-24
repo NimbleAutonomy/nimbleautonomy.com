@@ -7,20 +7,20 @@ save_as: speaking.html
 
 ### Upcoming talks
 
-- [2021 tech leadership conference](https://www.developer-first.com/conference) - May 07, 2021 - Minnetonka, MN, United States
-- [Xpand Conference](http://www.xpandconf.com/) - June 01, 2021 - Amman, Jordan
-- [Lead Dev: Manager of Managers](https://managerofmanagerslondon2020.theleaddeveloper.com/) - June 10, 2021 - London, United Kingdom
+- [0111 Conference - November 04, 2021 - San Diego, CA, United States](https://7ctos.com/0111conf/)
+- [LeadDev Together - November 16, 2021 - virtual](https://events.leaddev.com/together-session-3)
 
 > Kevin gave an awesome talk to our eco-system on agile methodologies. It was particularly powerful because, as a CTO, Kevin truly "gets" how this stuff really nets out in practice. So much of what people talk about in this space is based in theory and then falls apart when you try to apply it IRL. This session was super useful to all of our teams because he gave them the permission to figure out how to make agile work for us, and not vice versa. We hope to have Kevin speak to our community again in future. - **Ruth Penfold, People Practice Lead at Launchpad from BP**  
 
 Kevin Goldsmith is has spoken at over 90 conferences and companies since 2005. He has given keynotes at the following public conferences:
 
 - Global Entrepeneurship Summit 2021 - West Bengal, India
-- JAX 2017, 2020 - Frankfurt, Germany
+- JAX 2020 - Frankfurt, Germany
 - Agile Israel 2019 - Tel Aviv, Israel
 - Agile by Example 2018 - Warsaw, Poland
 - The Hive Conference 2018 - Berlin, Germany
 - The Lead Developer 2018 - London, United Kingdom
+- JAX 2017 - Frankfurt, Germany
 - AppBuilders 2016 - Zurich, Switzerland
 - Mobiconf 2015 - Kraków, Poland
 - WEBBOS 2015 - Stockholm, Sweden
@@ -46,6 +46,7 @@ Kevin has also given talks for employees at the following companies:
 - Geocaching
 - Godel
 - Metrobank
+- Pfizer Digital Manufacturing
 - Philips Personal Health
 - Starbucks
 - Think Money

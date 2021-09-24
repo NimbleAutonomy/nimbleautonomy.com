@@ -46,7 +46,7 @@ Template: home
                 <header class="major">
                     <h3>Speaking</h3>
                 </header>
-                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired tens of thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
+                <p>Kevin is a sought-after international keynote speaker who has informed, entertained and inspired tens of thousands of leaders and developers at conferences and companies around the world. In addition to dozens of conferences, he has spoken at organizations such as Adobe, The BBC, AO.com, ThinkMoney, Embriq, Pfizer, Philips, de Bijenkorf, ING, UK Department for Digital, Culture, Media and Sport, Automattic, Wooga, Bonnier, Starbucks, Zillow, Geocaching and Compare the Market.</p>
                 <ul class="actions">
                     <li><a href="speaking.html" class="button">Learn more about speaking</a></li>
                 </ul>
@@ -62,7 +62,7 @@ Template: home
                 <header class="major">
                     <h3>Writing</h3>
                 </header>
-                <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
+                <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Lead Dev, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
                 <ul class="actions">
                     <li><a href="articles/" class="button">Learn more about writing</a></li>
                 </ul>

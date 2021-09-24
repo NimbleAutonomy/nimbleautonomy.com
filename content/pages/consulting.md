@@ -15,6 +15,8 @@ Kevin is available on an hourly, daily, or weekly basis. Weekly availability is 
 
 Each engagement will be unique as each company and challenge is different. Kevin does not bring a one-size-fits-all approach nor a set of fixed solutions that he will impose on your unique problems. He works to understand what makes your team distinctive. Then he builds on that understanding to put a framework in place to help you move forward. A framework aligned with who your company is and what you aspire for it to be.
 
+Consulting clients include such companies as Metrobank, Unibuddy, Astrolabe Analytics, ExecSmart, and Copyright Agent.
+
 Services that Kevin has provided for companies include:
 
 - Reviewing pitch decks for startups and making suggestions for improvement

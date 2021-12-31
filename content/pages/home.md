@@ -1,7 +1,7 @@
 Title: Nimble Autonomy
 SubTitle: Helping your company grow
 Description: Information about Nimble Autonomy, LLC
-Date: 2020-08-10 20:00
+Date: 2021-12-30 23:20
 save_as: index.html
 Template: home
 
@@ -10,7 +10,7 @@ Template: home
         <header class="major">
             <h2>Kevin Goldsmith</h2>
         </header>
-        <p>With almost thirty years of industry experience, Kevin Goldsmith has been a leader of technology teams in the world's largest technology companies as well as in angel and seed-stage startups. He has twenty years of experience building products with Agile methodologies and has used Lean techniques to help take Adobe Revel from zero to six million subscribers and Spotify from ten million monthly active users to over one hundred million. He has helped countless companies of all sizes in multiple industries build more sustainable cultures and practices and he can help you and your team as well.</p>
+        <p>With thirty years of industry experience, Kevin Goldsmith has been a leader of technology teams in the world's largest technology companies as well as in angel and seed-stage startups. He has twenty years of experience building products with Agile methodologies and has used Lean techniques to help take Adobe Revel from zero to six million subscribers and Spotify from ten million monthly active users to over one hundred million. He has helped countless companies of all sizes in multiple industries build more sustainable cultures and practices and he can help you and your team as well.</p>
     </div>
 </section>
 <section id="two" class="spotlights">

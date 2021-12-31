@@ -3,8 +3,9 @@ Date: 2018-05-31 08:00
 Category: Management and Leadership
 Tags: focus, Getting Things Done, lifehacks
 Slug: how-i-get-my-focused-work-done
+External_Canonical: https://blog.kevingoldsmith.com/2018/05/31/how-i-get-my-focused-work-done/
 
-<img alt="" height="525" loading="lazy" sizes="(max-width: 525px) 85vw, 525px" src="/articles/images/20150809-LF6A9677-1200x1200.jpg" srcset="/articles/images/20150809-LF6A9677-1200x1200.jpg 1200w, /articles/images/20150809-LF6A9677-420x420.jpg 420w, /articles/images/20150809-LF6A9677-744x744.jpg 744w, /articles/images/20150809-LF6A9677-300x300.jpg 300w, /articles/images/20150809-LF6A9677-800x800.jpg 800w, /articles/images/20150809-LF6A9677-200x200.jpg 200w, /articles/images/20150809-LF6A9677.jpg 2000w" width="525"/>
+<img alt="Photo by Kevin Goldsmith" height="525" loading="lazy" sizes="(max-width: 525px) 85vw, 525px" src="/articles/images/20150809-LF6A9677-1200x1200.jpg" srcset="/articles/images/20150809-LF6A9677-1200x1200.jpg 1200w, /articles/images/20150809-LF6A9677-420x420.jpg 420w, /articles/images/20150809-LF6A9677-744x744.jpg 744w, /articles/images/20150809-LF6A9677-300x300.jpg 300w, /articles/images/20150809-LF6A9677-800x800.jpg 800w, /articles/images/20150809-LF6A9677-200x200.jpg 200w, /articles/images/20150809-LF6A9677.jpg 2000w" width="525"/>
 
 In management, we can become very "interrupt driven." We get so used to distractions that we count on them. This dependency can make it very hard to focus when we need to. My calendar fills up with meetings. My unscheduled time is full of people stopping by to ask questions or chat. If I am not careful, I will find myself doing a lot of work at night.
 

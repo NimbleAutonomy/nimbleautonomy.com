@@ -12,6 +12,7 @@ from pelicanconf import *
 from pelican.plugins import sitemap
 
 PLUGINS = [ 'pelican.plugins.sitemap' ]
+SEO_ENHANCER = True
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://nimbleautonomy.com'

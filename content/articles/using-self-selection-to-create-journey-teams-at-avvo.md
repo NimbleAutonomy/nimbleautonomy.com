@@ -24,11 +24,11 @@ As the Journey Team leadership groups made progress building their plans, they w
 
 As we moved into December of 2016, the leadership of each of the Journey Teams had made enough progress that I felt comfortable setting the self-section exercise to happen right after the New Years break in January. At this point, the board had approved the budget. The CPO and I could figure out what staffing we would allocate to each team based on their mission and their strategy. Each Journey Team then needed to think about how they would structure their efforts based on their allocated staffing.
 
-# The Exercise 
+# The Exercise
 
 The self-selection exercise structure was a job fair with a festive atmosphere. The entire product, design, development, test, data engineering, and data analytics teams assembled. We had cupcakes and drinks. One by one, each Journey Team leadership group came up to pitch their team to the rest of the organization. They described their mission, their goals, their initial plans, and the planned size of the team. Some had already designed logos and had slogans. Each team was selling their mission to their peers. Some teams put a lot of effort and salesmanship into their pitches. Other teams had a difficult time articulating why people should join them.
 
-<img alt="" height="242" loading="lazy" sizes="(max-width: 186px) 85vw, 186px" src="/articles/images/Journey-Selection-crop-744x966.jpg" srcset="/articles/images/Journey-Selection-crop-744x966.jpg 744w, /articles/images/Journey-Selection-crop-420x546.jpg 420w, /articles/images/Journey-Selection-crop-768x998.jpg 768w, /articles/images/Journey-Selection-crop-1200x1559.jpg 1200w, /articles/images/Journey-Selection-crop.jpg 1251w" width="186"/>
+<img alt="Journey Team Selection Card" height="242" loading="lazy" sizes="(max-width: 186px) 85vw, 186px" src="/articles/images/Journey-Selection-crop-744x966.jpg" srcset="/articles/images/Journey-Selection-crop-744x966.jpg 744w, /articles/images/Journey-Selection-crop-420x546.jpg 420w, /articles/images/Journey-Selection-crop-768x998.jpg 768w, /articles/images/Journey-Selection-crop-1200x1559.jpg 1200w, /articles/images/Journey-Selection-crop.jpg 1251w" width="186"/>
 
 After the last Journey Team had presented, every person in the room got a card. The card contained a space for their name and a list of the Journey Teams with spaces to put their order of preference. We asked everyone to fully rank their preferences just in case that would be needed.
 

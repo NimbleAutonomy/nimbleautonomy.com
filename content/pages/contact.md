@@ -25,7 +25,7 @@ You can contact us in the following ways:
       ltr = coded.charAt(i)
       link += (ltr)
     }
-    else {     
+    else {
       ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
       link += (key.charAt(ltr))
     }

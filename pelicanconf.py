@@ -7,6 +7,20 @@ AUTHOR = 'Kevin Goldsmith'
 SITENAME = 'Nimble Autonomy'
 SITEURL = 'https://nimbleautonomy.com'
 
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.8,
+        'pages': 1.0,
+        'indexes': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'pages': 'weekly',
+        'indexes': 'daily'
+    }
+}
+
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
@@ -41,6 +55,9 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# SEO Plugin stuff
+SEO_REPORT = True
 
 # set new root
 BLOG_ROOT_PATH = 'articles/'

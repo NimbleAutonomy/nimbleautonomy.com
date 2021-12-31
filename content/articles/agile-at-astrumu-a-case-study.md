@@ -10,7 +10,7 @@ This article is meant to present how we organize our work at AstrumU, a startup 
 
 Our product is composed of multiple web-based front-end applications backed by a steadily increasing number of microservices.
 
-# My Biases 
+# My Biases
 
 I'm going to state some of my biases up-front. I firmly ascribe to the dictum that you don't let your tools dictate your process. I am also a firm believer in using a physical board for a team to organize work.
 
@@ -20,13 +20,13 @@ I have used many of the agile digital tools over the years. I am not a strong ad
 
 Jira is such a catch-all tool that its' complexity makes it difficult for teams to adopt. I'm hoping that our workflows might show other teams some useful things that Jira can do.  
 
-# Our Agile Process 
+# Our Agile Process
 
 At AstrumU we use a simple Kanban process, with some of the ceremonies from Scrum. Some call this "Scrumban."
 
 We have a daily standup at 9 am in the US. On Mondays, we follow the stand-up with a retrospective or a planning meeting (alternating weeks). The retrospectives and standup are similar to the traditional Scrum ceremonies so I won't describe them here. Our planning meeting is different. I describe it later in a later section.
 
-# Projects and How We Use Them 
+# Projects and How We Use Them
 
 Given that we build multiple products and a variety of independent supporting services, it makes sense not to have one project for all of our development or one project per team to track work. Instead, we use multiple projects that are each specific to a product or supporting service. We currently have 14 different projects in Jira covering everything from an application front-end to our cross-service security work.
 
@@ -74,7 +74,7 @@ Since our epics track the significant efforts in progress, the Epic board is an 
 
 Our Kanban board for Epics has three columns: To Do, In Progress, and Done. The simplicity of the columns makes sense for an Epic workflow where the primary goal is transparency and managing the amount of work in progress. We also maintain a backlog for Epics.
 
-<img alt="" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/ASUEpics_Kanban-1200x730.png" srcset="/articles/images/ASUEpics_Kanban-1200x730.png 1200w, /articles/images/ASUEpics_Kanban-420x256.png 420w, /articles/images/ASUEpics_Kanban-744x453.png 744w, /articles/images/ASUEpics_Kanban-768x467.png 768w, /articles/images/ASUEpics_Kanban.png 1509w"/>
+<img alt="The Epics Kanban Board" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="/articles/images/ASUEpics_Kanban-1200x730.png" srcset="/articles/images/ASUEpics_Kanban-1200x730.png 1200w, /articles/images/ASUEpics_Kanban-420x256.png 420w, /articles/images/ASUEpics_Kanban-744x453.png 744w, /articles/images/ASUEpics_Kanban-768x467.png 768w, /articles/images/ASUEpics_Kanban.png 1509w"/>
 
 The ordering of Epics in the columns denotes priority, but there is no strict enforcement of having the stories in the other board match the epic prioritization exactly. If there is a significant disparity, that in itself would signal some potential issues in our process.
 

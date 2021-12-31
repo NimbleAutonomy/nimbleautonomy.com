@@ -1,6 +1,6 @@
 Title: Nimble Autonomy Consulting
 Description: Consulting services provided by Nimble Autonomy, LLC
-Date: 2020-08-10 20:00
+Date: 2021-12-30 23:20
 save_as: consulting.html
 
 <span class="image right"><img src="{static}/images/20161010-CuZ-tYAXgAAhsmf.jpg" alt="Kevin leading a workshop on organizational design to a group in Warsaw" /></span>

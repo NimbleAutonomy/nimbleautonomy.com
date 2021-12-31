@@ -1,14 +1,14 @@
 Title: Nimble Autonomy Speaking
 Description: Speaking services provided by Nimble Autonomy, LLC
-Date: 2020-08-10 20:00
+Date: 2021-12-30 23:20
 save_as: speaking.html
 
 <span class="image fit"><img src="{static}/images/20181018-DpzM3bBW4AI9uwu.jpg" alt="Kevin keynoting the Honeypot Hive conference" /><span>
 
 ### Upcoming talks
 
-- [0111 Conference - November 04, 2021 - San Diego, CA, United States](https://7ctos.com/0111conf/)
-- [LeadDev Together - November 16, 2021 - virtual](https://events.leaddev.com/together-session-3)
+- [CTO Universe Webinar Series - February 24, 2022](https://www.ctouniverse.com/)
+- [Society for Information Management Speaker Series - April 20, 2022](https://chapter.simnet.org/seattle/home)
 
 > Kevin gave an awesome talk to our eco-system on agile methodologies. It was particularly powerful because, as a CTO, Kevin truly "gets" how this stuff really nets out in practice. So much of what people talk about in this space is based in theory and then falls apart when you try to apply it IRL. This session was super useful to all of our teams because he gave them the permission to figure out how to make agile work for us, and not vice versa. We hope to have Kevin speak to our community again in future. - **Ruth Penfold, People Practice Lead at Launchpad from BP**  
 

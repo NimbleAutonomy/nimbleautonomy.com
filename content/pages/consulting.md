@@ -1,5 +1,6 @@
-Title: Nimble Autonomy Consulting
-Description: Consulting services provided by Nimble Autonomy, LLC
+Title: Consulting for growing startups and established businesses
+ContentTitle: Consulting by Nimble Autonomy
+Description: Consulting services for startups and established businesses looking to improve their organization and effectiveness provided by Nimble Autonomy, LLC
 Date: 2021-12-30 23:20
 save_as: consulting.html
 

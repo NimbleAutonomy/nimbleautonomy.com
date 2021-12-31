@@ -58,6 +58,7 @@ RELATIVE_URLS = True
 
 # SEO Plugin stuff
 SEO_REPORT = True
+SEO_ENHANCER = False
 
 # set new root
 BLOG_ROOT_PATH = 'articles/'

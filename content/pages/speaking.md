@@ -1,4 +1,5 @@
-Title: Nimble Autonomy Speaking
+Title: Have Kevin Goldsmith speak at your event
+ContentTitle: Have Kevin Goldsmith speak to your company or for your event
 Description: Speaking services provided by Nimble Autonomy, LLC
 Date: 2021-12-30 23:20
 save_as: speaking.html

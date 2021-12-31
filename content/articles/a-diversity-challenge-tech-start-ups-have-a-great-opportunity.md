@@ -1,8 +1,12 @@
 Title: A diversity challenge: tech start-ups have a great opportunity
+Description: It's much easier for startups to address diversity, just from the law of small numbers.
 Date: 2017-05-16 08:00
 Category: Management and Leadership
 Tags: diversity
 Slug: a-diversity-challenge-tech-start-ups-have-a-great-opportunity
+External_Canonical: https://blog.kevingoldsmith.com/2017/05/16/a-diversity-challenge-tech-start-ups-have-a-great-opportunity/
+Image: https://nimbleautonomy.com/android-chrome-512x512.png
+tw_account: @nimbleautonomy
 
 For decades we’ve been complaining about the lack of diversity in the technology industry. We’ve worked on the pipeline problem. We’ve worked on reducing bias. We’ve worked on the sourcing problem. We’ve worked on the retention problem. The net result thus far is that we’ve barely moved the needle.
 

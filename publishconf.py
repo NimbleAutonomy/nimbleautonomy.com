@@ -9,10 +9,20 @@ import os
 import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
-from pelican.plugins import sitemap
+import pelican
+from pelican.plugins import sitemap, seo
 
-PLUGINS = [ 'pelican.plugins.sitemap' ]
+installed_plugins_dir = pelican.plugins.__path__[0]   # ones that are pip installed
+local_plugins_dir = 'plugins'  # ones that are in the repo
+
+PLUGIN_PATHS = [local_plugins_dir, installed_plugins_dir]
+PLUGINS = ['seo', 'sitemap']
+
+SEO_REPORT = False
 SEO_ENHANCER = True
+SEO_ENHANCER_OPEN_GRAPH = True
+SEO_ENHANCER_TWITTER_CARDS = True
+LOGO = "https://nimbleautonomy.com/android-chrome-512x512.png"
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://nimbleautonomy.com'

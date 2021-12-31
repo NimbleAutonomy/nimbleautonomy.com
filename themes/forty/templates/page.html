@@ -14,7 +14,7 @@
 
 {% block content %}
 <div class="inner">
-  <h1>{{ page.title }}</h1>
+  <h1>{% if page.contenttitle %}{{ page.contenttitle }}{% else %}{{ page.title }}{% endif %}</h1>
     {% import 'translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
 

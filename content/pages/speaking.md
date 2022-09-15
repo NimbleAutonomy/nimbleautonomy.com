@@ -8,8 +8,8 @@ save_as: speaking.html
 
 ### Upcoming talks
 
-- [CTO Universe Webinar Series - February 24, 2022](https://www.ctouniverse.com/)
-- [Society for Information Management Speaker Series - April 20, 2022](https://chapter.simnet.org/seattle/home)
+- [0111 Conference - November 2, 2022](https://www.eventcreate.com/e/0111-2022)
+- [2022 Seattle CTO Summit - December 8, 2022](https://www.ctoconnection.com/events/in-person/2022-12-08-the-2022-seattle-cto-summit)
 
 > Kevin gave an awesome talk to our eco-system on agile methodologies. It was particularly powerful because, as a CTO, Kevin truly "gets" how this stuff really nets out in practice. So much of what people talk about in this space is based in theory and then falls apart when you try to apply it IRL. This session was super useful to all of our teams because he gave them the permission to figure out how to make agile work for us, and not vice versa. We hope to have Kevin speak to our community again in future. - **Ruth Penfold, People Practice Lead at Launchpad from BP**  
 

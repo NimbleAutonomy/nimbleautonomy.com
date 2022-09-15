@@ -62,7 +62,7 @@ Template: home
                 <header class="major">
                     <h3>Writing</h3>
                 </header>
-                <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Lead Dev, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed jacket blurbs to books by Britt Andreatta and Esther Derby.</p>
+                <p>As a thought leader in building agile and lean technology organizations, Kevin has contributed articles to numerous publications including Techwell, Lead Dev, Better Programming, Agile & Change, Nobody Likes Angry, Honeypot, Educative, Popforms as well as company publications for Adobe, Spotify and Avvo. He contributed to both the early editions of the Open GL Programming Guide, The Inventor Mentor and Scaling Teams. He has contributed introductions or blurbs to books by Britt Andreatta, Esther Derby, and Dan Meador.</p>
                 <ul class="actions">
                     <li><a href="articles/" class="button">Learn more about writing</a></li>
                 </ul>

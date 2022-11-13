@@ -36,7 +36,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-GOOGLE_ANALYTICS = 'UA-175171484-1'
+GOOGLE_ANALYTICS = 'G-23PKHLZP5B'
 
 SITEMAP = {
     'format': 'xml',

@@ -43,7 +43,7 @@
         {% endif %}
         {% endblock head %}
 </head>
-
+{% include 'analytics.html' %}
 <body class="is-preload">
   <!-- Wrapper -->
   <div id="wrapper">
@@ -173,7 +173,6 @@
           </ul>
         </div>
       </footer><!-- /#contentinfo -->
-{% include 'analytics.html' %}
 {% include 'disqus_script.html' %}
 		<!-- Scripts -->
     <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
